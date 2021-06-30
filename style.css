@@ -1,0 +1,16 @@
+/* banner */
+#carousel {
+  height: calc(100vh - 56px);
+}
+.carousel-inner img {
+  max-height: calc(100vh - 56px);
+  object-fit: cover;
+}
+
+/* collection */
+#collection img {
+  max-height: 50vh;
+  object-fit: cover;
+}
+/* gallery */
+/* footer */
